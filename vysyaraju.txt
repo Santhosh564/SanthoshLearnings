@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 96A8-6946
+
+ Directory of C:\Users\santhoshv\Desktop\git demo
+
+26-02-2021  14:36    <DIR>          .
+26-02-2021  14:36    <DIR>          ..
+26-02-2021  14:36               346 santhosh.txt
+26-02-2021  14:36                 0 vysyaraju.txt
+               2 File(s)            346 bytes
+               2 Dir(s)  891,138,854,912 bytes free
